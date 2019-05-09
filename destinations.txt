@@ -1,0 +1,4 @@
+Nis, RSD, Serbia, Balkans, Europe
+Munich, EUR, Germany, West Europe, Europe
+Nizny Novgorod, RUB, Russia, East Europe, Europe
+Parga, EUR, Greece, Balkans", Europe
